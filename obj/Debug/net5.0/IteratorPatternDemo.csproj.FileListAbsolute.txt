@@ -1,0 +1,16 @@
+E:\IteratorPatternDemo\obj\Debug\net5.0\IteratorPatternDemo.csproj.AssemblyReference.cache
+E:\IteratorPatternDemo\obj\Debug\net5.0\IteratorPatternDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\IteratorPatternDemo\obj\Debug\net5.0\IteratorPatternDemo.AssemblyInfoInputs.cache
+E:\IteratorPatternDemo\obj\Debug\net5.0\IteratorPatternDemo.AssemblyInfo.cs
+E:\IteratorPatternDemo\obj\Debug\net5.0\IteratorPatternDemo.csproj.CoreCompileInputs.cache
+E:\IteratorPatternDemo\bin\Debug\net5.0\IteratorPatternDemo.exe
+E:\IteratorPatternDemo\bin\Debug\net5.0\IteratorPatternDemo.deps.json
+E:\IteratorPatternDemo\bin\Debug\net5.0\IteratorPatternDemo.runtimeconfig.json
+E:\IteratorPatternDemo\bin\Debug\net5.0\IteratorPatternDemo.runtimeconfig.dev.json
+E:\IteratorPatternDemo\bin\Debug\net5.0\IteratorPatternDemo.dll
+E:\IteratorPatternDemo\bin\Debug\net5.0\ref\IteratorPatternDemo.dll
+E:\IteratorPatternDemo\bin\Debug\net5.0\IteratorPatternDemo.pdb
+E:\IteratorPatternDemo\obj\Debug\net5.0\IteratorPatternDemo.dll
+E:\IteratorPatternDemo\obj\Debug\net5.0\ref\IteratorPatternDemo.dll
+E:\IteratorPatternDemo\obj\Debug\net5.0\IteratorPatternDemo.pdb
+E:\IteratorPatternDemo\obj\Debug\net5.0\IteratorPatternDemo.genruntimeconfig.cache
